@@ -47,4 +47,4 @@ jobs:
         run: dart test
 
       - name: Build executable
-        run: dart compile
+        run: dart compile exe lib/unsure.dart -o unsure
