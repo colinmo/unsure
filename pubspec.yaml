@@ -10,11 +10,11 @@ environment:
 
 dependencies:
   args: ^2.3.0
-  petitparser: ^5.0.0
-  t_stats: ^3.0.0
+  petitparser: ^7.0.1
+  t_stats: ^4.0.0
 
 dev_dependencies:
-  lints: ^1.0.1
+  lints: ^6.0.0
   test: ^1.6.0
 
 executables:
